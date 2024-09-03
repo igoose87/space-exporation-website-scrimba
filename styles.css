@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Orbitron, sans-serif;
+  text-align: center;
+  color: #1E1E1E;
+}
+
+#hero {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  padding-top: 30px;
+  padding-bottom: 30%;
+}
+
+#title {
+  text-shadow: 0px 0px 4px white;
+}
+
+.btn {
+  padding: 6px 12px;
+  border: none;
+  font-weight: 800;
+  font-family: inherit;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+#main-logo {
+  max-width: 180px;
+}
